@@ -37,9 +37,9 @@
     "zod": "^3.23.8"
   },
   "devDependencies": {
-    "@acme/eslint-config": "workspace:*",
-    "@acme/prettier-config": "workspace:*",
-    "@acme/tsconfig": "workspace:*",
+    "@acme/eslint-config": "*",
+    "@acme/prettier-config": "*",
+    "@acme/tsconfig": "*",
     "dotenv-cli": "^7.4.2",
     "drizzle-kit": "^0.22.6",
     "eslint": "^9.4.0",

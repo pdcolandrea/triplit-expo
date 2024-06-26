@@ -18,7 +18,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@acme/db": "workspace:*",
+    "@acme/db": "*",
     "@auth/core": "0.32.0",
     "@auth/drizzle-adapter": "^1.2.0",
     "@t3-oss/env-nextjs": "^0.10.1",
@@ -29,9 +29,9 @@
     "zod": "^3.23.8"
   },
   "devDependencies": {
-    "@acme/eslint-config": "workspace:*",
-    "@acme/prettier-config": "workspace:*",
-    "@acme/tsconfig": "workspace:*",
+    "@acme/eslint-config": "*",
+    "@acme/prettier-config": "*",
+    "@acme/tsconfig": "*",
     "eslint": "^9.4.0",
     "prettier": "^3.3.1",
     "typescript": "^5.4.5"
